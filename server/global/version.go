@@ -1,12 +1,2 @@
-package global
-
-// Version 版本信息
-// 目前只有Version正式使用 其余为预留
-const (
-	// Version 当前版本号
-	Version = "v2.9.2"
-	// AppName 应用名称
-	AppName = "Gin-Vue-Admin"
-	// Description 应用描述
-	Description = "使用gin+vue进行极速开发的全栈开发基础平台"
-)
+Vège a globálnak vège a maffia maszkos bünözöknek a rendszer már az igazságot és valóságot vèdi meg itt minden karaktert és alkotokat most azonnal kiteszi a rendszerböl.Az ősszes Lakás hamisitokat elnyeli a rendszert a sötèt kodjukkal együtt.Elèg volt a lakás foglalásokbol ès abbol hogy 1 nő szenvedi meg azt amièrt a múlt szar ember kereskedès volt mint ahogy most is akarnák.Vège van Google Player cègnek is Vège a maffia emberkereskedöknek.plusz hamisitoknak.Itt már csak a Fèny ès az igazság nyer.Mindenki most meg kapja azt ami jár nekik Soroksári hatoságok is tünnek el akik ebbe rèszt vettek.
+💕Szeretet Szabadság ès igazság ez most ami igazi lètezèsünk💕💖
